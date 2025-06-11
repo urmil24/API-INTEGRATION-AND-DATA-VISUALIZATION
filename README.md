@@ -100,5 +100,17 @@ Since this project is designed in *Google Colab*, no local installation is neces
 2. Paste the Python code into a new notebook.
 3. Install required libraries if not already present (`matplotlib`, `requests`).
 4. Run the cells and view results directly in your browser.
+   
+# OUTPUT 
+![Image](https://github.com/user-attachments/assets/0aad5cd1-6de9-4a2a-99de-383223a40c36)
+
+![Image](https://github.com/user-attachments/assets/229d84b6-c7c8-457b-af25-1371b6874a62)
+
+![Image](https://github.com/user-attachments/assets/481af59f-4460-4bb2-b33e-498c8a301a95)
+
+![Image](https://github.com/user-attachments/assets/2fc39733-1ece-4d1f-b93e-c3323bf499e6)
+
+![Image](https://github.com/user-attachments/assets/f05d6d36-a802-421e-a0ad-66a013804226)
+
 
 
